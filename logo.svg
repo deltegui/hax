@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 120 120">
+  <rect width="120" height="120" fill="black"/>
+  <g stroke="white" stroke-width="10" fill="none">
+    <path d="M30 20 L30 100" />
+    <path d="M90 20 L90 100" />
+
+    <path d="M30 97 L60 22" />
+    <path d="M60 22 L90 98" />
+    <path d="M55 25 L65 25" />
+    
+    <path d="M40 65 L80 65" />
+  </g>
+</svg>
